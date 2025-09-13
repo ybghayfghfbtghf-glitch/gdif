@@ -10,7 +10,7 @@ import random
 import string
 import itertools
 # معلومات البوت
-BOT_TOKEN = "8083436685:AAHO7SzPu--ImuSl8BtL2jplLzooJ2V6uxA"
+BOT_TOKEN = "8207113199:AAH7lasPNSeV2Y22-3X_B_NT_QMch0YFxrE"
 DATA_FILE = "user_data.json"
 DEVELOPER_CHAT_ID = 1800163946  
 CHANNEL_USERNAME = "MMJ8M"
